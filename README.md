@@ -22,9 +22,7 @@ Sorted
   483,  572,  623,  692,  901)
 ```
 
-
-   
-TODO:
+Programming Languages:
 - C
 - Python
 - C++
