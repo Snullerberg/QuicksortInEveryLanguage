@@ -1,10 +1,10 @@
 # QuicksortInEveryLanguage
 
 ### The classic QuickSort algorithm in as many languages as possible: A self proposed challenge.
-#### Project where I expose myself to as many different programming languages I can stand.
+#### A project where I expose myself to as many different programming languages I can stand.
 
 
-For every implementation i use the following data sample.
+For every single implementation I use the following data sample.
 
 ```javascript
 Random
