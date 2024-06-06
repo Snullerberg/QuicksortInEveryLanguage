@@ -23,7 +23,7 @@ Sorted
 ```
 
 Programming Languages:
-- C **DONE**
+- **```DONE```** C 
 - Python
 - C++
 - C#
