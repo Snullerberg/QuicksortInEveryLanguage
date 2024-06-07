@@ -18,8 +18,7 @@ Sorted
 #### Languages i've done so far
 | High-level | Low-level | other |
 | - | - | - |
-| - | C | - |
-| - | Python | - |
+| Python, C# | C | - |
 
 Todo:
 - C++
