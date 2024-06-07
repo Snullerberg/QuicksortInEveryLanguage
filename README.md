@@ -21,10 +21,16 @@ Sorted
    25,  145,  207,  317,  448,
   483,  572,  623,  692,  901)
 ```
+#### Languages i've done so far
+| High-level | Low-level | other |
+| - | - | - |
+| - | C | - |
 
-Programming Languages:
-- **```DONE```** C 
+Todo:
 - Python
 - C++
 - C#
 - Assembly
+- Java
+- Javascript
+- Lua
