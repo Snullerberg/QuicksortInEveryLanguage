@@ -19,4 +19,4 @@ Sorted
 #### Languages i've done so far
 | High-level | Low-level | other |
 | - | - | - |
-| Python, C# | C | - |
+| Python, C#, C++ | C | - |
