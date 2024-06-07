@@ -23,7 +23,6 @@ Sorted
 
 Todo:
 - C++
-- C#
 - Assembly
 - Java
 - Javascript
