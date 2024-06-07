@@ -3,6 +3,7 @@
 ### The classic QuickSort algorithm in as many languages as possible: A self proposed challenge.
 #### A project where I expose myself to as many different programming languages I can stand.
 
+Sorting algorithms are really simple algorithms so they should be easy to implement. The main goal of this project is to get exposed to as many different programming languages with different paradigms and functionality.
 
 For every single implementation I use the following data sample.
 
