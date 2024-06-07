@@ -25,9 +25,9 @@ Sorted
 | High-level | Low-level | other |
 | - | - | - |
 | - | C | - |
+| - | Python | - |
 
 Todo:
-- Python
 - C++
 - C#
 - Assembly
