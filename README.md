@@ -20,10 +20,3 @@ Sorted
 | High-level | Low-level | other |
 | - | - | - |
 | Python, C# | C | - |
-
-Todo:
-- C++
-- Assembly
-- Java
-- Javascript
-- Lua
