@@ -18,9 +18,9 @@ class SortingQuick {
 
     public static void QuickSort(int[] A, int p1, int p2){
         if(p1 < p2){
-            int pivot = Partition(A, p1, p2);
-            QuickSort(A, p1, pivot - 1);
-            QuickSort(A, pivot + 1, p2);
+            int q = Partition(A, p1, p2);
+            QuickSort(A, p1, q - 1);
+            QuickSort(A, q + 1, p2);
         }
     }
 
