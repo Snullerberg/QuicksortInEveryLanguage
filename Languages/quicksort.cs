@@ -27,11 +27,7 @@ class SortingQuick {
 
     static void Main(){
         int[] A = {572, -856, 483, -74, 901, -399, 207, 692, -52, -908, 317, 145, -501, 623, 0, -310, 25, -657, 448, 9};
-        int p1 = 0;
-        int p2 = A.Length;
-        
-        QuickSort(A, p1, p2 - 1);
-        
+        QuickSort(A, 0, A.Length - 1);
         
         foreach(int x in A)
         {
