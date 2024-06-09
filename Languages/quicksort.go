@@ -1,13 +1,14 @@
 package main
-
 import "fmt"
+
+
 func main(){
     A := []int{572, -856, 483, -74, 901, -399, 207, 692, -52, -908, 317, 145, -501, 623, 0, -310, 25, -657, 448, 9}
-    
     QuickSort(A, 0, len(A) - 1)
 
     fmt.Printf("%d",A)
 }
+
 
 func QuickSort(A []int, p1 int, p2 int){
     if p1 < p2 {
@@ -16,6 +17,7 @@ func QuickSort(A []int, p1 int, p2 int){
         QuickSort(A, q + 1, p2)
     }
 }
+
 
 func Partition(A []int, p1 int, p2 int) (int){
     pivot := A[p2]
